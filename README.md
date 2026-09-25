@@ -1,4 +1,4 @@
-# Muhammad Asif Ghauri
+# MAG
 
 Founder & Developer of **MAG COIN** — a long-term blockchain project on Base Mainnet, built around integrity, transparency, and responsible stewardship.
 
